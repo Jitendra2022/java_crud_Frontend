@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   server: {
     host: '0.0.0.0',
-    allowedHosts: ['java-crud-frontend.onrender.com']
+    allowedHosts: ['https://java-crud-frontend.onrender.com']
   }
 })
